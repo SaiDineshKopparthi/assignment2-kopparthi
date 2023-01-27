@@ -10,3 +10,7 @@ My favorite cricket team is team india
 1. MS Dhoni
 2. Virat Kohli
 3. Sachin Tendulkar
+
+* Australia
+* England
+* South Africa
