@@ -17,3 +17,14 @@ My favorite cricket team is team india
 
 
 [Link to Aboutme Markdown file](AboutMe.md)
+
+----
+## 4 must vist countries
+In the below table the first column has the country names, the second column has the reason of why you should visit that country and the third column details on how many days you should spend in that country.
+
+| Country | Reson for travel | Days to spend |
+|---------|------------------|---------------|
+| Italy | Beautiful nature and historic buildings| 10 |
+| Japan | Cultural experience and modern technology | 15 |
+| France | Paris and beautiful country side | 10 |
+| Vietnam | Beautiful landscapes | 7 |
