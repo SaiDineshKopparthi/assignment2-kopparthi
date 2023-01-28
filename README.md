@@ -28,3 +28,9 @@ In the below table the first column has the country names, the second column has
 | Japan | Cultural experience and modern technology | 15 |
 | France | Paris and beautiful country side | 10 |
 | Vietnam | Beautiful landscapes | 7 |
+
+----
+## Funny qoutes by famous people
+> When it comes to the past, everyone writes fiction - *Stephen King*
+
+> An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her - *Agatha Christie*
