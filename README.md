@@ -34,3 +34,16 @@ In the below table the first column has the country names, the second column has
 > When it comes to the past, everyone writes fiction - *Stephen King*
 
 > An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her - *Agatha Christie*
+
+-----
+## Creating a Hamburger menu icon using SVG
+>How to create hamburger menu icon consisting from single SVG path<br>
+<https://stackoverflow.com/questions/67482923/how-to-create-hamburger-menu-icon-consisting-from-single-svg-path>
+```
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg>
+```
+<https://css-tricks.com/snippets/svg/svg-hamburger-menu/>
